@@ -51,7 +51,7 @@ The variables considered for the dataset are listed above:
 [33] "fBodyAccMag-std()_mean"           
 [34] "fBodyBodyAccJerkMag-std()_mean"  
 [35] "fBodyBodyGyroMag-std()_mean"      
-[36] "fBodyBodyGyroJerkMag-std()_mean" 
+[36] "fBodyBodyGyroJerkMag-std()_mean"
 [37] "tBodyAcc-mean()-X_mean"           
 [38] "tBodyAcc-mean()-Y_mean"          
 [39] "tBodyAcc-mean()-Z_mean"           
